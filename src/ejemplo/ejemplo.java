@@ -18,13 +18,13 @@ public class ejemplo {
 
         // tipos de datoa decimales
         float floatVar = 3.14f;
-        double doubleVar = 3.1416;
+        double doubleVar = 3.1416; //(1. puede ser tambien altura)
 
         // tipos de datos caracteres
         char charVar = 'A';
 
         // tipos de cadenas
-        String stringVar = "Chacalaca";
+        String stringVar = "Chacalaca";  //(para escribir cualquier texto)
 
         // tipos de datos boleanos
         boolean booleanVar = true;
